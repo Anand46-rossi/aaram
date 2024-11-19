@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "title": "DISEASES",
+    "image": "../assets/images/disease.png"
+  },
+  {
+    "id": 2,
+    "title": "MEDICINE",
+    "image": "../assets/images/medicine.png"
+  },
+  {
+    "id": 3,
+    "title": "MEDICAL NEWS",
+    "image": "../assets/images/medical_news.png"
+  },
+  {
+    "id": 4,
+    "title": "MISINFO",
+    "image": "../assets/images/misinfo.png"
+  }
+]
